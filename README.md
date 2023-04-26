@@ -1,1 +1,2 @@
 # SeaIceBudgetAnalysis
+The sea ice budget analysis script is written by Prof. Paul Holland (BAS) to quantify the dynamic and thermodynamic processes governing the sea ice concentration. It was firstly used in Holland and Kwok, 2012 (https://doi.org/10.1038/ngeo1627). In this repository, the scripts used to pre-process wind, ice drift and sea ice concentration dataset, to compute the budget term are shared.
